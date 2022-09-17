@@ -1,0 +1,7 @@
+Review 2 CIC Batch Question:-
+
+Create Folder with Name 588-Review2 on Desktop and inside that folder solve below problems:-
+
+Q.Declare 2 variables num1, num2 using if loop check between them who is bigger.
+
+Q. Using awk command change text "Data Sceince" to "Data Structure".
